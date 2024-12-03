@@ -1,5 +1,5 @@
 {
-  "name": "boxicons",
+  "name": "@isitraghav/boxicons",
   "version": "2.1.4",
   "description": "High Quality Web Icons",
   "scripts": {
@@ -11,11 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/atisawd/boxicons.git"
   },
-  "author": {
-    "name": "Atisa",
-    "email": "atisawd@gmail.com",
-    "url": "https://github.com/atisawd"
-  },
+  "author": "Atisa <atisawd@gmail.com> (https://github.com/atisawd)",
   "bugs": {
     "url": "https://github.com/atisawd/boxicons/issues"
   },
@@ -52,8 +48,9 @@
     "webpack-dev-server": "^3.9.0",
     "wrapper-webpack-plugin": "^1.0.0"
   },
-  "bundleDependencies": false,
+  "bundleDependencies": [],
   "license": "(CC-BY-4.0 OR OFL-1.1 OR MIT)",
   "main": "./dist/boxicons.js",
-  "style": "./css/boxicons.css"
+  "style": "./css/boxicons.css",
+  "homepage": "https://github.com/atisawd/boxicons#readme"
 }
